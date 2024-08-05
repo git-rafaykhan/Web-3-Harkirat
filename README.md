@@ -9,7 +9,7 @@ Welcome to my progress tracker for the Web 3 Harkirat Cohort 3 course. This repo
   - [Introduction 🎓](#introduction-)
   - [Course Overview 📚](#course-overview-)
   - [Week-by-Week Progress 📅](#week-by-week-progress-)
-    - [Week 0: \[Dates\]](#week-0-dates)
+    - [Week 0: August 2, 2024](#week-0-august-2-2024)
     - [Week 1: \[Dates\]](#week-1-dates)
   - [Learnings and Reflections 💡](#learnings-and-reflections-)
   - [Future Goals 🎯](#future-goals-)
@@ -32,7 +32,7 @@ The Web 3 Harkirat Cohort 3 course covers a range of topics essential for modern
 
 ## Week-by-Week Progress 📅
 
-### Week 0: [Dates]
+### Week 0: August 2, 2024
 
 - **Topics Covered:**
   - Introduction to Blockchain 🛠️
