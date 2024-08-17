@@ -1,5 +1,3 @@
-nks vs. Blockchains
-
 ## Goal of Today’s Class
 - **Objective:** To create a simple web-based wallet.
 - **Tasks:**
