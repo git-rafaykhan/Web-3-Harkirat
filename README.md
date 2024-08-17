@@ -9,8 +9,8 @@ Welcome to my progress tracker for the Web 3 Harkirat Cohort 3 course. This repo
   - [Introduction 🎓](#introduction-)
   - [Course Overview 📚](#course-overview-)
   - [Week-by-Week Progress 📅](#week-by-week-progress-)
-    - [Week 0: August 2, 2024](#week-0-august-2-2024)
-    - [Week 1: \[Dates\]](#week-1-dates)
+    - [Week 1: August 2, 2024](#week-1-august-2-2024)
+    - [Week 2: August 9, 2024](#week-2-august-9-2024)
   - [Learnings and Reflections 💡](#learnings-and-reflections-)
   - [Future Goals 🎯](#future-goals-)
   - [Acknowledgments 🙏](#acknowledgments-)
@@ -32,7 +32,7 @@ The Web 3 Harkirat Cohort 3 course covers a range of topics essential for modern
 
 ## Week-by-Week Progress 📅
 
-### Week 0: August 2, 2024
+### Week 1: August 2, 2024
 
 - **Topics Covered:**
   - Introduction to Blockchain 🛠️
@@ -47,18 +47,32 @@ The Web 3 Harkirat Cohort 3 course covers a range of topics essential for modern
 - **Notes:**
   - Explored real-world applications of blockchain and hashing algorithms 🌐
 
-### Week 1: [Dates]
+### Week 2: August 9, 2024
 
 - **Topics Covered:**
-  - [To be updated]
+  - **Advanced Blockchain Concepts**
+    - Transaction Flow: From user-side creation to miner validation 🔄
+    - Public/Private Key Pair: Usage in transactions and security importance 🔑
+  - **Hashing vs. Encryption**
+    - Hashing Algorithms: SHA-256 vs. MD5 - Key differences and applications 🔐
+    - Encryption Types: Symmetric vs. Asymmetric encryption
+      - Symmetric: Single key usage 🔒
+      - Asymmetric: Public and private key pairs, including RSA, ECC (ECDSA), and EdDSA 📜
+  - **Elliptic Curve Cryptography**
+    - ECDSA vs. EdDSA: Comparison of secp256k1 (BTC, ETH) vs. ed25519 (SOL) 🔍
+    - How Elliptic Curves Work: Mathematical principles and real-world applications 📐
+  - **Derivation Paths**
+    - BIP-32: Hierarchical Deterministic wallets and generating multiple key pairs from a single seed 🗝️
+    - Derivation Path Format: m / purpose' / coin_type' / account' / change / address_index 📍
 
 - **Key Achievements:**
-  - [To be updated]
+  - Mastered advanced blockchain transaction flow and key pair usage 🔄
+  - Gained in-depth understanding of hashing algorithms and encryption types 🔑
+  - Compared elliptic curve cryptography methods and their use cases 📐
+  - Learned about derivation paths and their significance in wallet interoperability 🔍
 
 - **Notes:**
-  - [To be updated]
-
-<!-- Continue with weekly updates -->
+  - Applied concepts to real-world scenarios and practical implementations 🌐
 
 ## Learnings and Reflections 💡
 
@@ -91,4 +105,3 @@ I would like to thank the Web 3 Harkirat team and all mentors for their support 
 ---
 
 Feel free to explore the repository and follow along with my progress. If you have any questions or feedback, please reach out!
-
