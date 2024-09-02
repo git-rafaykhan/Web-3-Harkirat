@@ -11,6 +11,8 @@ Welcome to my progress tracker for the Web 3 Harkirat Cohort 3 course. This repo
   - [Week-by-Week Progress 📅](#week-by-week-progress-)
     - [Week 1: August 2, 2024](#week-1-august-2-2024)
     - [Week 2: August 9, 2024](#week-2-august-9-2024)
+    - [Week 3: August 16, 2024](#week-3-august-16-2024)
+    - [Week 4: August 23, 2024](#week-4-august-23-2024)
   - [Learnings and Reflections 💡](#learnings-and-reflections-)
   - [Future Goals 🎯](#future-goals-)
   - [Acknowledgments 🙏](#acknowledgments-)
@@ -35,44 +37,43 @@ The Web 3 Harkirat Cohort 3 course covers a range of topics essential for modern
 ### Week 1: August 2, 2024
 
 - **Topics Covered:**
-  - Introduction to Blockchain 🛠️
-  - Understanding Hashing and Hashing Algorithms 🔐
-  - SHA-256 Algorithm
+  - Blockchain basics 🛠️
+  - Hashing & SHA-256 🔐
 
 - **Key Achievements:**
-  - Gained foundational knowledge about blockchain technology 📈
-  - Learned about hashing and how SHA-256 works 🧩
-  - Completed related assignments to reinforce learning 📝
-
-- **Notes:**
-  - Explored real-world applications of blockchain and hashing algorithms 🌐
+  - Learned blockchain fundamentals and SHA-256 hashing 📈
 
 ### Week 2: August 9, 2024
 
 - **Topics Covered:**
-  - **Advanced Blockchain Concepts**
-    - Transaction Flow: From user-side creation to miner validation 🔄
-    - Public/Private Key Pair: Usage in transactions and security importance 🔑
-  - **Hashing vs. Encryption**
-    - Hashing Algorithms: SHA-256 vs. MD5 - Key differences and applications 🔐
-    - Encryption Types: Symmetric vs. Asymmetric encryption
-      - Symmetric: Single key usage 🔒
-      - Asymmetric: Public and private key pairs, including RSA, ECC (ECDSA), and EdDSA 📜
-  - **Elliptic Curve Cryptography**
-    - ECDSA vs. EdDSA: Comparison of secp256k1 (BTC, ETH) vs. ed25519 (SOL) 🔍
-    - How Elliptic Curves Work: Mathematical principles and real-world applications 📐
-  - **Derivation Paths**
-    - BIP-32: Hierarchical Deterministic wallets and generating multiple key pairs from a single seed 🗝️
-    - Derivation Path Format: m / purpose' / coin_type' / account' / change / address_index 📍
+  - Advanced blockchain concepts 🔄
+  - Public/Private Key Pairs 🔑
+  - Hashing vs. Encryption 🔐
+  - ECDSA vs. EdDSA 📜
+  - BIP-32 & Derivation Paths 🗝️
 
 - **Key Achievements:**
-  - Mastered advanced blockchain transaction flow and key pair usage 🔄
-  - Gained in-depth understanding of hashing algorithms and encryption types 🔑
-  - Compared elliptic curve cryptography methods and their use cases 📐
-  - Learned about derivation paths and their significance in wallet interoperability 🔍
+  - Mastered blockchain transaction flow and key cryptography concepts 🔍
 
-- **Notes:**
-  - Applied concepts to real-world scenarios and practical implementations 🌐
+### Week 3: August 16, 2024
+
+- **Topics Covered:**
+  - dApps & Smart Contracts 🌐
+  - Web 3.js & Solana Web3.js 🔗
+  - Security in Smart Contracts 🛡️
+
+- **Key Achievements:**
+  - Developed a basic dApp and deployed a smart contract on Ethereum 📜
+
+### Week 4: August 23, 2024
+
+- **Topics Covered:**
+  - Advanced dApp development 🌐
+  - Cross-Chain Communication 🔗
+  - Decentralized Storage Solutions (IPFS, Arweave) 🗃️
+
+- **Key Achievements:**
+  - Integrated frontend with smart contracts and explored cross-chain communication 🏗️
 
 ## Learnings and Reflections 💡
 
